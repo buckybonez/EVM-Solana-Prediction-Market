@@ -80,4 +80,4 @@ FEE_AUTHORITY =
 ## 💬 Contact
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- Telegram: [@NightFly](https://t.me/its0xnightfly)
+- Telegram: [@d0sc4u](https://t.me/d0sc4u)
