@@ -48,8 +48,8 @@ https://github.com/user-attachments/assets/8f48a641-7edb-4af3-a17e-c5464bfef660
 
 ```bash
 # Clone the repository
-git clone https://github.com/HyperBuildX/Solana-Prediction-Market
-cd decentrapredict
+git clone https://github.com/Buckybonez/Solana-EVM-Prediction-Market
+cd Solana-EVM-Prediction-Market
 
 # Install dependencies
 npm install
