@@ -79,5 +79,4 @@ FEE_AUTHORITY =
 
 ## 💬 Contact
 
-If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- Telegram: [@buckybonez](https://t.me/buckybonez)
+If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact 
